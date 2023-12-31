@@ -8,4 +8,3 @@ vim.cmd("set relativenumber")
 vim.g.mapleader = " "
 
 vim.api.nvim_set_keymap('i', '<C-t>', '<Esc>', { noremap = true })
-
